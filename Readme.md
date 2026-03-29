@@ -21,7 +21,7 @@ Lendly is a comprehensive lending management application designed to streamline 
 
 ### Setup Instructions
 ```bash
-git clone https://github.com/yourusername/Lendly.git
+git clone https://github.com/badri-2005/Lendly-MAP.git
 cd Lendly
 npm install
 ```
@@ -52,7 +52,7 @@ Lendly/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   ├── services/
-│   │   └── App.js
+│   │   └── App.jsx
 │   ├── public/
 │   ├── package.json
 │   └── .env
